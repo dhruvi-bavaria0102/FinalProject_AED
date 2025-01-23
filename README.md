@@ -17,9 +17,6 @@ Roles:
 7.	Hospital Services admin: this user will we decide which doctor or ambulance to send for the request
 8.	Shelter services admin: this will decide which shelter to assign the request.
 
-
-
-
-
 MODEL DIAGRAM
-image.png
+![image](https://github.com/user-attachments/assets/49e311b3-46ec-40fb-86a6-8d66cc7319d5)
+
