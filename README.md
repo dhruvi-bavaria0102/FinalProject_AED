@@ -18,8 +18,6 @@ Roles:
 8.	Shelter services admin: this will decide which shelter to assign the request.
 
 
-
-
-
 MODEL DIAGRAM
-image.png
+![image](https://github.com/user-attachments/assets/ecc2f1e0-30b6-45ff-bb6f-85d9b05b54bc)
+
